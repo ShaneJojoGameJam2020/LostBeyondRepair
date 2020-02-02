@@ -1,0 +1,11 @@
+﻿  RotationGame.cpp
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\rotationgame.h(185): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\rotationgame.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\rotationgame.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\rotationgame.cpp(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\rotationgame.cpp(55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\rotationgame.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\rotationgame.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\rotationgame.h(88): warning C4715: 'RotationGameBoard::Node::getString': not all control paths return a value
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\rotationgame.h(116): warning C4715: 'RotationGameBoard::Node::getRotation': not all control paths return a value
+  LostBeyondRepair.vcxproj -> C:\Users\apoll\source\repos\LostBeyondRepair\Debug\LostBeyondRepair.exe

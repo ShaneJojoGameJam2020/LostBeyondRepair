@@ -1,0 +1,41 @@
+﻿  Game.cpp
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\rotationgame.h(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\game.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\game.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\game.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\game.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\game.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\game.cpp(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\game.cpp(178): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\game.cpp(235): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\game.cpp(242): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\game.cpp(251): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\game.cpp(272): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\game.cpp(286): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\game.cpp(287): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\game.cpp(382): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\game.cpp(415): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\game.cpp(420): warning C4018: '<': signed/unsigned mismatch
+  RotationGame.cpp
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\rotationgame.h(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\rotationgame.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\rotationgame.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\rotationgame.cpp(53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\rotationgame.cpp(69): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\rotationgame.h(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\source.cpp(47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\source.cpp(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\source.cpp(93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\source.cpp(114): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\source.cpp(130): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\source.cpp(176): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\source.cpp(245): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\source.cpp(262): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+c:\users\apoll\source\repos\lostbeyondrepair\lostbeyondrepair\rotationgame.h(87): warning C4715: 'RotationGameBoard::Node::getString': not all control paths return a value
+  97 of 1055 functions ( 9.2%) were compiled, the rest were copied from previous compilation.
+    57 functions were new in current compilation
+    65 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LostBeyondRepair.vcxproj -> C:\Users\apoll\source\repos\LostBeyondRepair\Release\LostBeyondRepair.exe
