@@ -9,5 +9,7 @@ class TextDrawer : public Drawer {
 	
 	void dropItem(std::vector<GameWorldObject> &worldObjects,std::pair<int,int> playerLocation, PlayerStatus &status);
 	void drawDay(std::vector<GameWorldObject *> visableObjects, std::pair<int, int> &PlayerLocation, PlayerStatus &status);
-	void drawNight();
+	void drawMantience(PlayerStatus &status);
+	void drawWin();
+	 void drawLose();
 };

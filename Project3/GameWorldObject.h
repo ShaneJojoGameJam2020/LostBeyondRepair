@@ -5,7 +5,6 @@
 class GameWorldObject {
 
 	std::pair<int, int> location;
-
 	std::string name;
 public:	
 

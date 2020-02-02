@@ -123,8 +123,11 @@
     <ClCompile Include="GameWorldObject.cpp" />
     <ClCompile Include="HelperFunctions.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="MantienceController.cpp" />
     <ClCompile Include="PlayerStaus.cpp" />
     <ClCompile Include="RobotSystem.cpp" />
+    <ClCompile Include="RotationGame.cpp" />
+    <ClCompile Include="TestMiniGame.cpp" />
     <ClCompile Include="TextDrawer.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -134,6 +137,9 @@
     <ClInclude Include="Game.h" />
     <ClInclude Include="GameWorld.h" />
     <ClInclude Include="GameWorldObject.h" />
+    <ClInclude Include="MantienceController.h" />
+    <ClInclude Include="RotationGame.h" />
+    <ClInclude Include="TestMiniGame.h" />
     <ClInclude Include="HelperFunctions.h" />
     <ClInclude Include="MiniGame.h" />
     <ClInclude Include="PlayerStatus.h" />

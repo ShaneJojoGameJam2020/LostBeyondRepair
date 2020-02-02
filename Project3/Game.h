@@ -16,9 +16,14 @@ class Game {
 	std::vector<GameWorldObject> worldObjects;
 
 	
+	int numPartsNeeded = 3;
+	int numPartsFound = 0;
+
 	PlayerStatus status;
 
 	void GameLoop();
+	void winState();
+	void loseState();
 public: 
 	void init();
 };
